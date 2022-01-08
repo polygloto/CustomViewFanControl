@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DialView">
+        <attr name="fanColorOff" format="color"/>
+        <attr name="fanColorLow" format="color"/>
+        <attr name="fanColorMedium" format="color"/>
+        <attr name="fanColorHigh" format="color"/>
+    </declare-styleable>
+</resources>
